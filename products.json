@@ -3,90 +3,60 @@
     "category": "Cigarettes",
     "item": "Marlboro",
     "price": "15.00",
-    "imagename": "marlboro"
+    "imagename": "R.drawable.marlboro"
   },
   {
     "category": "Cigarettes",
     "item": "Winston",
     "price": "30.00",
-    "imagename": "winston"
+    "imagename": "R.drawable.winston"
   },
   {
     "category": "Cigarettes",
     "item": "Philip",
     "price": "35.00",
-    "imagename": "philip"
+    "imagename": "R.drawable.philip"
   },
   {
     "category": "Cigarettes",
     "item": "Camel",
     "price": "80.00",
-    "imagename": "camel"
+    "imagename": "R.drawable..camel"
   },
   {
     "category": "Drinks",
     "item": "Coke",
     "price": "35.00",
-    "imagename": "coke"
+    "imagename": "R.drawable.coke"
   },
   {
     "category": "Drinks",
     "item": "Sprite",
     "price": "35.00",
-    "imagename": "sprite"
+    "imagename": "R.drawable.sprite"
   },
   {
     "category": "Drinks",
     "item": "RC Cola",
     "price": "25.00",
-    "imagename": "rccola"
+    "imagename": "R.drawable.rccola"
   },
   {
     "category": "Drinks",
     "item": "Red Horse",
     "price": "65.00",
-    "imagename": "redhorse"
+    "imagename": "R.drawable.redhorse"
   },
   {
     "category": "Drinks",
     "item": "San Mig Lights",
     "price": "55.00",
-    "imagename": "smb"
+    "imagename": "R.drawable.smb"
   },
   {
     "category": "Pulutan",
     "item": "Barbecue",
     "price": "100.00",
-    "imagename": "barbecue"
-  },
-  {
-    "category": "Pulutan",
-    "item": "Isaw",
-    "price": "100.00",
-    "imagename": "isaw"
-  },
-  {
-    "category": "Pulutan",
-    "item": "Sisig",
-    "price": "100.00",
-    "imagename": "sisig"
-  },
-  {
-    "category": "Pulutan",
-    "item": "Crispy Pata",
-    "price": "100.00",
-    "imagename": "crispypata"
-  },
-  {
-    "category": "Pulutan",
-    "item": "Kilawin",
-    "price": "100.00",
-    "imagename": "kinilaw"
-  },
-  {
-    "category": "Pulutan",
-    "item": "Towa't Baboy",
-    "price": "100.00",
-    "imagename": "towababoy"
+    "imagename": "R.drawable.barbecue"
   }
 ]
