@@ -3,60 +3,60 @@
     "category": "Cigarettes",
     "item": "Marlboro",
     "price": "15.00",
-    "imagename": "R.drawable.marlboro"
+    "imagename": "marlboro"
   },
   {
     "category": "Cigarettes",
     "item": "Winston",
     "price": "30.00",
-    "imagename": "R.drawable.winston"
+    "imagename": "winston"
   },
   {
     "category": "Cigarettes",
     "item": "Philip",
     "price": "35.00",
-    "imagename": "R.drawable.philip"
+    "imagename": "philip"
   },
   {
     "category": "Cigarettes",
     "item": "Camel",
     "price": "80.00",
-    "imagename": "R.drawable..camel"
+    "imagename": "camel"
   },
   {
     "category": "Drinks",
     "item": "Coke",
     "price": "35.00",
-    "imagename": "R.drawable.coke"
+    "imagename": "coke"
   },
   {
     "category": "Drinks",
     "item": "Sprite",
     "price": "35.00",
-    "imagename": "R.drawable.sprite"
+    "imagename": "sprite"
   },
   {
     "category": "Drinks",
     "item": "RC Cola",
     "price": "25.00",
-    "imagename": "R.drawable.rccola"
+    "imagename": "rccola"
   },
   {
     "category": "Drinks",
     "item": "Red Horse",
     "price": "65.00",
-    "imagename": "R.drawable.redhorse"
+    "imagename": "redhorse"
   },
   {
     "category": "Drinks",
     "item": "San Mig Lights",
     "price": "55.00",
-    "imagename": "R.drawable.smb"
+    "imagename": "smb"
   },
   {
     "category": "Pulutan",
     "item": "Barbecue",
     "price": "100.00",
-    "imagename": "R.drawable.barbecue"
+    "imagename": "barbecue"
   }
 ]
