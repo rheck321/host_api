@@ -10,53 +10,5 @@
     "item": "Winston",
     "price": "30.00",
     "imagename": "winston"
-  },
-  {
-    "category": "Cigarettes",
-    "item": "Philip",
-    "price": "35.00",
-    "imagename": "philip"
-  },
-  {
-    "category": "Cigarettes",
-    "item": "Camel",
-    "price": "80.00",
-    "imagename": "camel"
-  },
-  {
-    "category": "Drinks",
-    "item": "Coke",
-    "price": "35.00",
-    "imagename": "coke"
-  },
-  {
-    "category": "Drinks",
-    "item": "Sprite",
-    "price": "35.00",
-    "imagename": "sprite"
-  },
-  {
-    "category": "Drinks",
-    "item": "RC Cola",
-    "price": "25.00",
-    "imagename": "rccola"
-  },
-  {
-    "category": "Drinks",
-    "item": "Red Horse",
-    "price": "65.00",
-    "imagename": "redhorse"
-  },
-  {
-    "category": "Drinks",
-    "item": "San Mig Lights",
-    "price": "55.00",
-    "imagename": "smb"
-  },
-  {
-    "category": "Pulutan",
-    "item": "Barbecue",
-    "price": "100.00",
-    "imagename": "barbecue"
   }
 ]
